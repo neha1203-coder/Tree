@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/MANISH/Desktop/programming/DSA",
-      "program": "c:/Users/MANISH/Desktop/programming/DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/MANISH/Desktop/programming/DSA/linked_list",
+      "program": "c:/Users/MANISH/Desktop/programming/DSA/linked_list/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

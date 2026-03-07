@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string a, b;
+    cin >> a >> b;
+    cout << (a == b ? "Equal" : "Not Equal");
+    return 0;
+}
