@@ -55,3 +55,7 @@ int main(){
 
     return 0;
 }
+
+
+// TIME COMPLEXITY ----- O(n)
+//  SPACE COMPLEXITY ----- O(h)   height of tree
